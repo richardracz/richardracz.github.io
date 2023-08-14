@@ -1,0 +1,344 @@
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mit csinálnál a fennmaradó időben, ha nem lenne szükséged alvásra?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Melyik a kedvenc ruhadarabod, amit valaha birtokoltál?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Milyen hobbit kezdenél el, hogyha a pénz és az idő nem lenne befolyásoló tényező?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Hogyan nézne ki a tökéletes szobád?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Milyen gyakran sportolsz?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Melyik fikcionális helyre mennél el legszívesebben?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Melyik munka az, ami nagyon nem illene hozzád?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mikor másztál utoljára fára?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Ha bármilyen tevékenységből csinálhatnál olimpiai sportot, melyikben lenne a legvalószínűbb, hogy nyernél?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Szerinted mi a legidegesítőbb dolog egyes emberekben?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Milyen munkában lennél szerinted nagyon tehetséges?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Milyen képességet sajátítanál el a legszívesebben?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi a kedvenc piád?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Hova nem szeretnél soha visszamenni?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mondj egy dalt, aminek a szövegét álmodból felébresztve is tudnád!
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Inkább korán, vagy későn szoktál érkezni?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Milyen háziállataid voltak?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Általában miben szoktak segítséget kérni tőled?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi az, ami a legtöbb idődet veszi el?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi az, amiről többet szeretnél tudni?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi lenne az első kérdésed, miután 100 év hibernálás után felkeltenének?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mik azok a kis dolgok, amik jobbá teszik a napodat?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Melyik előadót kezded el hallgatni, amikor nem tudod eldönteni, hogy mit hallgass?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mik a kedvenc TV sorozataid?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Milyen TV csatorna nincsen, de szükség lenne rá?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Ki nyűgözött le téged a legjobban azzal, amit teljesített?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Hány éves korodban szeretnéd megállítani az öregedésedet?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi az a film vagy sorozat, amit nem vagy hajlandó megnézni?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Hogy néz ki egy ideális hétvége?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi az, ami mások szerint luxus, de te nem tudsz nélküle élni?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Szerinted te miért lennél híres?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Melyik a legjobb nap az évben?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi az, amit az emberek nem nagyon ismernek, de téged nagyon érdekel?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Hogyan relaxálsz egy kemény nap után?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi volt a legjobb könyv vagy sorozat, amit valaha láttál/olvastál?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Hol voltál valaha a legmesszebb az otthonodtól?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi a leginkább szívmelengető dolog, amit valaha láttál?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi a leginkább bosszantó kérdés, amit emberek szoktak tőled kérdezni?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Miről tudnál tartani 40 perces előadást semmi előkészület nélkül?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Ha egy kis sziget nemzet diktátora lennél, akkor milyen őrült diktátor-dolgokat csinálnál?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi az, amiről úgy gondolod, hogy mindenkinek legalább egyszer meg kell tennie az életében?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Melyik az álomautód?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mire érdemes többet költeni, hogy a lehető legjobb legyen az életed?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi az, amiért egy csomó ember megszállott, de te nem érted, miért?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mit vársz a következő 10 évben?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Melyik a legérdekesebb hely, ahol voltál?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi a legjobb dolog, ami a múlt héten történt?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi az a film vagy sorozat, amit kitörölnél az emlékezetedből, hogy átélhesd újra?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Ha minden munkahelynek ugyanolyan fizetése és munkaidő beosztása lenne, akkor milyen munkát dolgoznál?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Milyen elképesztő dolgot csináltál, amit pont nem látott senki?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mennyivel különbözött az életed egy évvel ezelőtt a mostanitól?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi a legjobb módja annak, hogy elkezdjük a napot?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi a legérdekesebb műalkotás, amit valaha láttál?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi az, amit remélsz, hogy soha nem változik meg?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Melyik városban szeretnél leginkább élni?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Melyik filmcím írja le legjobban az életedet?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mivel lehet a legjobban eltölteni az időt?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Melyik a leginkább pihentető hely, ahol valaha voltál?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi a legszerencsésebb dolog, ami valaha veled történt?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Hol akarsz most leginkább lenni?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mit vársz az elkövetkezendő hónapoktól?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Melyik webhelyet látogatod a leggyakrabban?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi az, amit szeretnél, de nem engedheted meg magadnak?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi a legérdekesebb dolog, amire képes vagy?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Milyen kérdést tehetsz fel valakinek, hogy a legtöbbet megtudd róla?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mikor változott meg legutóbb valamiről gyökeresen a véleményed?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi volt a legszebb bók, amit valaha kaptál?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Te vagy az egyetlen ember a Földön. Mit csinálsz?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Ki inspirál téged, hogy jobb legyél?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mit szeretnél, mi legyen a sírkövedre írva?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi az, amiből azt gondoltad, hogy ki fogsz nőni, de még nem sikerült?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Milyen helyzetben vagy helyen éreznéd leginkább, hogy ott a helyed?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi az, amit soha többé nem fogsz újra megtenni?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Min gondolkozol a legtöbbet?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Két embertípus van ebben a világban. Mi az a két típus?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi a legfurcsább dolog, amit valaha láttál?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi az, amiben biztos vagy, hogy soha többé nem fogod megtapasztalni?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Ha létrehozhatnál egy szabályt, amit mindenkinek követnie kell, mi lenne ez a szabály?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Milyen függőségeid vannak?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi az, amiben sztereotípan viselkedsz?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi az, amit soha nem lehet abbahagyni?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi a kedvenc illatod?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Milyen dalt vagy előadót szeretsz, de ritkán vallod be?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mit tennél, ha tudnád, hogy egy órán belül meg fogsz halni?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Melyik könyv vagy film érintett meg a legjobban?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Ha meg kellene változtatnod a neved, mire változtatnád?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Ha az élet egy játék, mik a fő szabályok?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Ki a legérdekesebb barátod?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Adtál valaha jótékonysági szervezeteknek?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi az, amit a barátaid úgy gondolnak, hogy az nagyon "te vagy"?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Milyen kockázatokat érdemes vállalni az életben?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi az, amin nem tudsz kiigazodni, függetlenül attól, hogy hányszor próbálkozol?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Ha meg tudnád győzni a világ összes emberét, hogy egy dolgot egy időben csináljanak, mi lenne ez a dolog?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi lenne a legbosszantóbb dolog egy szobatársban?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Melyik személyiségjegyet szereted leginkább, és melyiket nem?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Kaptál már valamit egy idegentől, ami nagy hatással volt rád?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi volt a mai napod legnagyobb kihívása?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Milyen irracionális félelmed van?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi a legjobb és a legrosszabb tanács, amit valaha kaptál?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Ha lenne egy olyan órád, amely visszaszámlálna egy általad választott bármilyen eseményig, akkor mi lenne ez az esemény?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mitől lesz jó az élet?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi az, amit erősen gyanítasz, de nincs bizonyítékod?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi volt az utolsó kaland, amiben benne voltál?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi volt a legemlékezetesebb ajándék, amit kaptál?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Milyen fejezetekre különítenéd el az önéletrajzodat?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mit szeretsz a legjobban a családodban?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mit szeretnél, mik legyenek az utolsó szavaid?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi az álomállásod?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi a három legjelentősebb dal az életedben?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Ha hat hónapig magánzárkába kerülnél, mit csinálhatnál, hogy józan maradj?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi az, ami szörnyű, de mindenki megpróbálja legalább egyszer?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Megmentetted már valaha valakinek az életét?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi volt az életed egyik fordulópontja?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Milyen 3 érdekes tényt tudnál felsorolni magadról?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi az életed jelenlegi fejezetének címe?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi a legnehezebb lecke, amit megtanultál az életben?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Milyen hibát követsz el újra és újra?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Miért gondolhatnák az emberek, hogy furcsa vagy?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Ha az emberek rád néznek, szerinted mit gondolnak?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mit hoztál létre, amire a legbüszkébb vagy?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Ha felhívhatnád a múlt- vagy a jövőbeli énedet, életed bármely pontján, mikor telefonálnál és mit mondanál?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi bosszant legjobban azokon a csoportokon belül, amelyeknek része vagy?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Milyen kétségeid vannak?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mik azok a szabályok, amelyeket soha nem szegsz meg?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi az, amit sajnálsz, hogy nem csinálod, vagy nem kezdted el korábban, amikor fiatalabb voltál?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Ha lenne egy soha véget nem érő gyertyád, aminek bármilyen illata lehet, melyik illatot választanád?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi a legjobb dolog, amit tanultál az anyukádtól/apukádtól?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Ha a gyermekkorodnak illata lett volna, mi lenne az?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi az a három legfontosabb dolog, amit el akarsz érni, mielőtt meghalsz? Milyen közel vagy ahhoz, hogy megvalósítsd őket?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi a legnagyobb lecke, amit soha nem tanultál meg?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi a legszerényebb dolog, amit csinálsz?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Ha az életed egy könyv lenne, mi lenne a címe?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Mi a legjobb és a legrosszabb dolog az idősödésben?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Ha lenne egy zászló, ami téged reprezentál, mi lenne rajta?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Milyen életmódbeli változtatást tettél már meg, ha nem is tartósan, de egy darabig?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Ha bármilyen eseményről videót készíthetnél az életedben, melyik eseményt választanád?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Ha kénytelen lennél újra és újra átélni egy 10 perces blokkját az életednek örökre, akkor melyik 10 percet választanád?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Ha kérdezhetnél valamit bárkitől, és az a személy garantáltan igazat mondana, kitől és mit kérdeznél?
+XXX, igyál 000 kortyot, és válaszolj a következő kérdésre. Ha meg lenne az esélyed, milyen céllal indítanál non-profitot?
+Mindenki, akin tanga van, igyon 000 kortyot.
+Mindenki, akinek tetoválása vagy piercingje van, igyon 000 kortyot.
+Aki utoljára ment ki a mosdóba, igyon 000 kortyot.
+XXX és YYY, amelyikőtöknek sötétebb színű az alsóneműje, igyon 000 kortyot. Igyatok akkor is, ha nincs rajtatok alsónemű.
+Akinek kék szeme van, igyon 000 kortyot.
+XXX, ha nincsenek leborotválva a lábaid, igyál 000 kortyot.
+Igyon mindenki 000 kortyot.
+Aki XXX jobb oldalán ül, igyon 000 kortyot.
+Aki XXX bal oldalán ül, igyon 000 kortyot.
+XXX, cserélj piát egy általad választott játékossal.
+Mindenki, aki XXX-t kevesebb, mint egy hónapja ismeri, igyon 000 kortyot.
+A focirajongók igyanak 000 kortyot.
+Akinek iPhoneja van, igyon 000 kortyot.
+Akinek Androidja van, igyon 000 kortyot.
+A szemüvegesek igyanak 000 kortyot.
+Aki legutoljára füvezett a társaságból, igyon 000 kortyot.
+Akinek a legnagyobb a feneke, igyon 000 kortyot.
+Akinek a legerősebb a piája, igyon 000 kortyot.
+XXX, ha olcsóbb piát iszol, mint YYY, igyál 000 kortyot.
+Ha páros számú napon van a szülinapod, igyál 000 kortyot.
+Ha páratlan számú napon van a szülinapod, igyál 000 kortyot.
+Mindenki, akinek nincsen meg XXX száma, igyon 000 kortyot.
+XXX, mondd meg, mi az utolsó film, amit moziban láttál. Mindenki, aki nem látta, iszik 000 kortyot.
+XXX, válaszd ki az ivós kurvádat. A játék során kétszer átruházhatod rá a neked kiadott kortyokat.
+Aki legutoljára posztolt Facebookon, igyon 000 kortyot.
+XXX, ha használtál már falevelet WC papír helyett, igyál 000 kortyot.
+XXX, annyit iszol, ahány ember van a szobában.
+XXX, annyit iszol, ahány mell van a szobában.
+Aki legutóbb hányt piától, kiadhat 000 kortyot.
+A legfiatalabb személy a szobában kiadhat 000 kortyot.
+Akinek a legtöbb Facebook ismerőse van a csoportból, igyon 000 kortyot.
+XXX, volt már egyéjszakás kalandod? Ha igen, kiadhatsz 000 kortyot. Ha nem, te iszol.
+XXX, egészen addig, amíg nem látod újra a neved a kijelzőn, minden körben iszol 000 kortyot.
+Mindenki, akinek a poharában nem tömény van, igyon 000 kortyot.
+Ha maszturbáltál már egy videoklipre, igyál 000 kortyot.
+Aki a legfiatalabb volt, amikor megkapta az első mobilját, igyon 000 kortyot.
+Aki először mondja, hogy "Igen!", kiválaszthatja, hogy a többiek közül kinek kell lehúznia a piáját.
+Aki legutóbb zuhanyzott, iszik 000 kortyot.
+Ha ezt a mondatot olvasod, iszol 000 kortyot.
+Ha hallgatod, ahogy valaki felolvassa ezt a mondatot, iszol 000 kortyot.
+XXX, a következő 3 percben nem muszáj innod, hadd pihenjen a májad.
+A legkevésbé szőrös játékos iszik 000 kortyot.
+A 3 legszőrösebb játékos iszik 000 kortyot.
+A 3 legmagasabb játékos iszik 000 kortyot.
+A 3 legalacsonyabb játékos iszik 000 kortyot.
+A 3 legidősebb játékos iszik 000 kortyot.
+A 3 legfiatalabb játékos iszik 000 kortyot.
+A három jóbarát: XXX, YYY és ZZZ, igyatok mindannyian 000 kortyot!
+Akik nem zuhanyoztak ma, igyanak 000 kortyot.
+XXX, ha papucs van rajtad, igyál 000 kortyot. Ha nem, kiadhatsz ugyanennyit.
+Ha játszottál már akármilyen iskolai sportcsapatban, kiadhatsz 000 kortyot.
+XXX, ha göndör hajad van, igyál 000 kortyot. Ha nem, kiadhatsz ugyanennyit.
+A házigazda kiadhat 000 kortyot. Ha nincs házigazda, XXX tegye meg ezt helyette.
+Ha voltál már a TV-ben, igyál 000 kortyot.
+Ha olvastál már titokban üzeneteket a párod telefonján, igyál 000 kortyot.
+Ha valaha is csaltál már dolgozaton vagy vizsgán, igyál 000 kortyot.
+Ha posztoltál már valaha is részegen közösségi médián, igyál 000 kortyot.
+XXX, ha vallottál már valakinek részegen szerelmet, akár élőben, akár üzenetben, igyál 000 kortyot.
+XXX, ha aludtál már el a munkában, vagy az iskolában, igyál 000 kortyot.
+XXX, ha loptál már valaha boltból, igyál 000 kortyot.
+XXX, ha érzed már, hogy beütött az alkohol, kiadhatsz 000 kortyot. Ha még nem, igyál ugyanennyit.
+XXX, ha valaha is raktak már ki kocsmából vagy szórakozóhelyről, kiadhatsz 000 kortyot. Ha még nem, igyál ugyanennyit.
+XXX, ha szakítottál már valaha valakivel üzenetben, kiadhatsz 000 kortyot. Ha még nem, igyál ugyanennyit.
+XXX, ha valaha is hazudtál már a korodról, hogy alkoholt vehess, kiadhatsz 000 kortyot. Ha még nem, igyál ugyanennyit.
+XXX, ha ütöttél már meg valakit részegen, kiadhatsz 000 kortyot. Ha még nem, igyál ugyanennyit.
+Ha sosem sztriptízeltél még, igyál 000 kortyot.
+Ha használtál már ízesített óvszert, igyál 000 kortyot.
+Ha voltál már részeg három egymást követő estén folyamatosan, igyál 000 kortyot.
+Ha ittál már valaha reggel 10 ellőtt, igyál 000 kortyot.
+Ha töltöttél már 3 napot folyamatosan alsónemű nélkül, igyál 000 kortyot.
+A 3 játékos a legkevesebb arcszőrzettel igyon 000 kortyot.
+Ateisták, igyatok 000 kortyot.
+Ha hiszel a szellemekben, igyál 000 kortyot.
+Ha voltál tegnap részeg, igyál 000 kortyot.
+Ha nagyon kiütötted magad legutóbb, amikor bulizni voltál, igyál 000 kortyot.
+XXX, ha szerinted józanabb vagy, mint YYY, igyál 000 kortyot. Ha nem, ő iszik.
+XXX, ha tartóztattak már le, igyál 000 kortyot.
+XXX, ha kezdtél már verekedést, igyál 000 kortyot.
+XXX, ha vettél már részt kocsmai verekedésben, igyál 000 kortyot.
+XXX, ha 2 pohárnál kevesebb piát ittál ma este, igyál 000 kortyot.
+Akik legutóbb ittak, igyanak 000 kortyot.
+Akik legutóbb ittak, kiadhatnak 000 kortyot.
+XXX, ha 2 pohár piánál többet ittál ma este, kiadhatsz 000 kortyot.
+Ha gazdasági vagy pénzügyi szakon tanulsz/tanultál, igyál 000 kortyot.
+Ha mérnöknek tanulsz/tanultál, igyál 000 kortyot.
+Ha marketing vagy kommunikáció szakon tanulsz/tanultál, igyál 000 kortyot.
+Ha orvosin tanulsz/tanultál, igyál 000 kortyot.
+Ha társadalomtudományi vagy bölcsészettudományi szakon tanulsz/tanultál, igyál 000 kortyot.
+Ha természettudományi szakon tanulsz/tanultál, igyál 000 kortyot.
+Azok, akik ma már megynitották a Facebookot, igyanak 000 kortyot.
+XXX és YYY, aki kevesebbet ivott ma este közületek, iszik 000 kortyot.
+Igyál 000 kortyot, ha festetted már be valaha a hajadat.
+Azok, akik valamilyen szakembernek tanulnak, vagy jelenleg ilyen területen dolgoznak, igyanak 000 kortyot.
+Ha lakkoztad már ki valaha a körmöd, igyál 000 kortyot.
+Ha ma viseled először azt az outfitet, ami most rajtad van, igyál 000 kortyot.
+Igyál 000 kortyot, ha valaha szerkesztetted már meg a Facebook profilképedet, csak hogy jobban nézz ki rajta.
+Aki utoljára érkezett, igyon 000 kortyot.
+Igyál 000 kortyot, ha törted már fel valaki Facebook profilját.
+Igyál 000 kortyot, ha törték már fel valaha a Facebookodat.
+Igyál 000 kortyot, ha használtál valaha MSN-t.
+Mindenki, akinek a kora egy páros szám, küldjön valakinek egy képet magáról, vagy igyon 000 kortyot.
+Jobbkezesek, igyatok 000 kortyot.
+Balkezesek, igyatok 000 kortyot.
+Igyál 000 kortyot, ha lassúztál már valakivel.
+Igyál 000 kortyot, ha valaki a társaságodból rámozdult már a barátodra/barátnődre.
+Igyál 000 kortyot, ha szartál már pottyantós WC-n.
+Mindenki, aki táncolt ma, igyon 000 kortyot.
+Mindenki, aki többet tanult már életében, mint XXX, igyon 000 kortyot.
+Ha nem érnek össze a kezeid a hátad mögött, az egyik felülről, a másik meg alulról, igyál 000 kortyot.
+Aki a bal oldalán ül annak, aki ezt olvassa, igyon 000 kortyot.
+Aki a jobb oldalán ül annak, aki ezt olvassa, igyon 000 kortyot.
+Aki a bal oldalán ül annak, aki ezt olvassa, kiadhat 000 kortyot.
+Aki a jobb oldalán ül annak, aki ezt olvassa, kiadhat 000 kortyot.
+Akinek van "a" a nevében, igyon 000 kortyot.
+Akinek van "f" a nevében, igyon 000 kortyot.
+Akinek van "s" a nevében, igyon 000 kortyot.
+Akinek van "o" a nevében, igyon 000 kortyot.
+Akinek nincs testvére, igyon 000 kortyot.
+Igyál 000 kortyot, ha kellett már évet ismételned az iskolában.
+XXX, igyál annyi kortyot, ahány országban jártál már életedben.
+Az, akinek a legvékonyabbak a karjai, igyon 000 kortyot.
+Mindenki, akinek van szakálla, igyon 000 kortyot.
+XXX, ha a korod páros szám, igyál 000 kortyot, ha páratlan, ugyanennyi kortyot kiadhatsz.
+Válasszátok ki a legmorcosabb játékost, innia kell 000 kortyot.
+Aki kitalálta, hogy BEKUzzunk, igyon 000 kortyot.
+Lányok, igyatok 000 kortyot.
+Fiúk, igyatok 000 kortyot.
+Aki legutóbb volt aquaparkban, kiadhat 000 kortyot.
+Mindenki, aki 3-nál több városban lakott életében, igyon 000 kortyot.
+Mindenki, aki álmodta már azt, hogy verekszik valakivel, igyon 000 kortyot.
+Ha valaha ébredtél már úgy, hogy álmodban beszéltél, igyál 000 kortyot.
+Mindenki, aki magasabb, mint XXX, annyi kortyot igyon, ahány centivel magasabb nála.
+Aki szeret cicákat simogatni, igyon 000 kortyot.
+Ha nem tudod a poharad tetejét bevenni a szádba, igyál 000 kortyot.
+Ha össze van nőve a két szemöldököd, igyál 000 kortyot.
+Az, aki utoljára a telefonjához nyúlt, igyon 000 kortyot.
+Ha 50 km-nél messzebb születtél innen, igyál 000 kortyot.
+Ha 50 km-nél közelebb születtél innen, igyál 000 kortyot.
+Ha mondtad már valakinek, hogy "Legyünk inkább csak barátok!", igyál 000 kortyot.
+Igyál 000 kortyot, ha nyitva szoktad hagyni magad után otthon az ajtót, amikor a fürdőszobába mész.
+Igyál 000 kortyot, ha volt ma már orgazmusod.
+Igyál 000 kortyot, ha mentél már a rossz irányba egy egyirányú utcában.
+Igyál 000 kortyot, ha volt már olyan, hogy 3 napig nem zuhanyoztál.
+Igyál 000 kortyot, ha küldtél már valakit kórházba.
+Igyál 000 kortyot, ha mérted már össze a péniszméretedet egy barátodéval.
+Igyál 000 kortyot, ha titokban szerelmes vagy egy barátodba.
+Igyál 000 kortyot, ha úgy érzed, hogy életed hátralevő részét a jelenlegi pároddal fogod leélni.
+Igyál 000 kortyot, ha hazudtál már valakinek a szobában ülők közül, csak hogy ne kelljen menned a bulijára.
+Azok, akik nem szavaztak az előző választásokon, igyanak 000 kortyot.
+Kiadhatsz 000 kortyot, ha mindig mosol kezet, miután mosdóban voltál, igyál ugyanennyi kortyot, ha nem.
+Igyál 000 kortyot, ha szerepeltél már valamilyen TV műsorban.
+Igyál 000 kortyot, ha valaha is loptál már a jelen levő játékosoktól.
+Igyál 000 kortyot, ha dolgoztál már feketén.
+Igyál 000 kortyot ha valaha is "kölcsönvettél" pénzt a párodtól az ő tudta nélkül.
+Igyál 000 kortyot, ha hazudtál már a saját vagy a partnered péniszméretéről.
+Igyál 000 kortyot, ha igazoltattak már a rendőrök, amikor vezettél.
+Igyál 000 kortyot, ha valaha őrizetbe vettek már.
+Igyál 000 kortyot, ha próbáltad már fel a párod alsóneműjét.
+Igyál 000 kortyot, ha használtad már a párod pólóját pizsamaként.
+Igyál 000 kortyot, ha szexelnél egy idegennel 3 millióért (annak tudatában, hogy a másik egészséges).
+Igyál 000 kortyot, ha volt már erotikus álmod a héten.
+Igyál 000 kortyot, ha láttál már valakit a jelenlevők közül meztelenül.
+Igyál 000 kortyot, ha szexeltél már a munkahelyeden.
+Igyál 000 kortyot, ha részegedtél már le egyedül.
+Igyál 000 kortyot, ha nem alszol jól szex után.
+Igyál 000 kortyot, ha az utolsó film, amit láttál, romantikus volt.
+Igyál 000 kortyot, ha az utolsó film, amit láttál, amerikai volt.
+Igyál 000 kortyot, ha mérted már meg valaha a saját, vagy a partnered péniszméretét.
+Igyál 000 kortyot, ha keltél már fel úgy valaki más ágyában, hogy fogalmad sem volt, hogy kerültél oda.
+Igyál 000 kortyot, ha szexeltél már vízben.
+Igyál 000 kortyot, ha (majdnem) minden telefonhívás végén mondod a párodnak, hogy "Szeretlek".
+Azok, akik akárhányszor valaki elővesz valami kaját, kérnek belőle "csak egy falatot", igyanak 000 kortyot.
+Ha kerestél már őrülten valamit úgy, hogy az végig a zsebedben volt, igyál 000 kortyot.
+Ha használtál már négyszínű tollat, mind a négy színnel egyszerre, igyál 000 kortyot.
+Azok, akik próbáltak már egy mosdókesztyűt megtölteni vízzel, igyanak 000 kortyot.
+Ha hadonásztál már a telefonoddal a kezedben azért, mert nem volt térerő, igyál 000 kortyot.
+Igyál 000 kortyot, ha vetted már el valakinek a szüzességét.
+Igyál 000 kortyot, ha szexeltél már kiskorúval, miközben te nagykorú voltál.
+Igyál 000 kortyot, ha szerinted a leggings nadrág.
+XXX, igyál annyi kortyot, ahány szexpartnered volt életed során.
+Azok, akik osztályozóztak valamilyen tárgyból, csak hogy hamarabb elvégezzék, igyanak 000 kortyot.
+Azok, akik pénzügyet tanulnak, vagy azon a területen dolgoznak, igyanak 000 kortyot.
+Azok, akik informatikát tanulnak, vagy azon a területen dolgoznak, igyanak 000 kortyot.
+Azok, akik marketinget tanulnak, vagy azon a területen dolgoznak, igyanak 000 kortyot.
+Igyál 000 kortyot, ha elkezdtél már kopaszodni.
+Igyál 000 kortyot, ha vadásztál már valaha.
+Igyál 000 kortyot, ha volt olyan, hogy egyszerre több emberrel kavartál.
+Igyál 000 kortyot, ha csaltak már meg.
+Igyál 000 kortyot, ha a cipődön van cipőfűző.
+Az a lány, akinek a legnagyobb melle van a jelenlevők közül, kiadhat 000 kortyot.
+Az a srác, akinek a legkevesebb testszőrzete van, igyon 000 kortyot.
+Az, akinek a legnagyobb az orra, igyon 000 kortyot.
+Kiadhatsz 000 kortyot, ha a cipőméreted nagyobb, mint 42.
+Kiadhatsz 000 kortyot, ha a cipőméreted kisebb, mint 38.
+Igyál 000 kortyot, ha a cipőméreted 38 és 42 között van.
+Kiadhatsz 000 kortyot, ha fehér zokni van rajtad.
+Igyál 000 kortyot, ha volt már olyan nap, amikor 300 ezer forintnál többet költöttél.
+Igyál 000 kortyot, ha az eddigiek közül a jelenlegi partnereddel a legjobb a szex.
+Igyál 000 kortyot, ha a jelenlegi kapcsolatod az első kapcsolatod életedben.
+Igyál 000 kortyot, ha játszottál már egy videojátékkal több, mint 4 óráig egyhuzamban.
+Ha loptál már pénzt rokonodtól, igyál 000 kortyot.
+Igyál 000 kortyot, ha mostanában álmodtál valami olyanról, amit még a legjobb barátodnak sem mondhatsz el.
+Igyál 000 kortyot, ha maradtál már fent azért akármilyen tömegközlekedési eszközön, mert elaludtál.
+Az a személy, aki ma a társaságból először töltötte meg a poharát, iszik 000 kortyot.
+Az a személy, aki ma a társaságból utoljára töltötte meg a poharát, iszik 000 kortyot.

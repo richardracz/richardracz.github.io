@@ -1,0 +1,19 @@
+XXX YYY ZZZ 000 3 nev korty
+XXX YYY 000 2 nev es korty
+XXX 000 egy nev es korty
+XXX YYY ZZZ 3 nev
+XXX YYY 2 nev
+XXX egy nev
+YYY ZZZ masodik ketto nev
+ZZZ csak utolso nev
+Tesztelni jó dolog.
+
+
+
+
+
+
+
+
+
+

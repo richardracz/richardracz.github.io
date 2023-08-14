@@ -1,0 +1,122 @@
+str,en,hu
+beku_title,"BEKU, the party game","BEKU, az ivós játék"
+insert_names,Put in the players' names,Írd le a játékosok neveit
+insert_names_textbox,Put down a name,Írj le egy nevet
+packs_games_title,Packs and games,Paklik és játékok
+few_sips,Few sips,Pár korty
+balanced_sips,Balanced,Közepes
+lot_of_sips,Lot of sips,Sok korty
+pregame_pack,PRE-GAME,ALAPOZÁS
+pregame_descr,The perfect start.,A tökéletes kezdés.
+icebreaker_pack,ICEBREAKER,ISMERKEDŐS
+icebreaker_descr,Get to know each other.,Ismerjétek meg egymást.
+kings_pack,KING’S CUP,KIRÁLY POHARA
+kings_descr,No deck needed.,Nincs szükség paklira.
+deep_pack,DEEP,LELKIZŐS
+deep_descr,Time to go deeper.,Ideje elmélyülni.
+crazy_pack,CRAZY,MEGBORULÓS
+crazy_descr,Time to get messed up.,Boruljatok meg keményen.
+naughty_pack,NAUGHTY,FORRÓ
+naughty_descr,Get your freak on.,Gátlásokat levetkőzni.
+all_pack,ALL AT ONCE,ÖSSZES
+all_descr,All packs at once.,Összes pakli egyszerre.
+your_current_membership,Your current membership,Jelenlegi tagságod
+unavailable,Unavailable,Nem elérhető
+premium,PREMIUM,PREMIUM
+premium_forever,PREMIUM LIFETIME,PREMIUM ÖRÖKRE
+premium_monthly,PREMIUM MONTHLY,PREMIUM HAVONTA
+premium_365,PREMIUM 365,PREMIUM 365
+valid_thru,VALID THRU,ÉRVÉNYES
+upgrade_membership,Be the life of the party!,Legyél te a buli lelke!
+forever,Lifetime,Örökre
+monthly,Monthly,Havonta
+three_sixty_five,365,365
+per_year,{} per year.,{} évente.
+per_month,{} per month.,{} havonta.
+paid_once,{} paid once for lifetime access.,{} egyszeri ár.
+trial_x_days,Try it out for {} day. Cancel if you don’t love it.,Próbáld ki {} napra ingyen. Mondd le ha nem tetszik.
+trial_x_days.many,Try it out for {} days. Cancel if you don’t love it.,Próbáld ki {} napig ingyen. Mondd le ha nem tetszik.
+trial_x_weeks,Try it out for {} week. Cancel if you don’t love it.,Próbáld ki {} hétre ingyen. Mondd le ha nem tetszik.
+trial_x_weeks.many,Try it out for {} weeks. Cancel if you don’t love it.,Próbáld ki {} hétig ingyen. Mondd le ha nem tetszik.
+trial_x_months,Try it out for {} month. Cancel if you don’t love it.,Próbáld ki {} hónapra ingyen. Mondd le ha nem tetszik.
+trial_x_months.many,Try it out for {} months. Cancel if you don’t love it.,Próbáld ki {} hónapig ingyen. Mondd le ha nem tetszik.
+trial_details,The free trial period is for first time members only and it is limited to the Monthly and 365 memberships.,"Az ingyenes próbaidőszak csak akkor érvényes, ha most próbálod ki először a tagságot, és kizárólag a Havi és a 365 tagságoknál érvényes."
+start_membership,Start membership,Tagság indítása
+restore_purchase,Restore purchases,Korábbi vásárlás visszaállítása
+made_with_love,Made with love by Richard Racz.,Made with love by Richard Racz.
+share_your_ideas,Share your ideas about BEKU. Send an email.,Oszd meg az ötleteidet a BEKU-ról. Küldj emailt!
+beku_on_insta,BEKU on Instagram,BEKU az Instagramon
+additional_info,Open source licenses,Nyílt forráskódú licencek
+settings,Settings,Beállítások
+missing_names_title,BEKU is more fun with others,A BEKU sokkal jobb társasággal
+missing_names_descr,"Please add at least two names to start a pack.","Adj hozzá legalább 2 nevet a kezdéshez."
+dismiss_missing_names,Back to adding names,Vissza a nevekhez
+continue_missing_names,Continue with less challenges,Folytatás kevesebb feladattal
+lets_go,Let’s go,Kezdjük
+kings_descr_long,"Every card is paired with a unique challenge. Do the challenge, and give the device to the person next to you. When you get the King, you have to pour something into a shared glass. Last one to get the King has to drink the cup. Be nice to each other, have a great game!","Ez a játék a francia kártyákhoz készült eredetileg. Minden kártyához tartozik egy feladat, de ezeket akár meg is változtathatod. Adjátok körbe az eszközt, és kövessétek az utasításokat. A király kihúzása után önteni kell egy közös pohárba. Aki az utolsót kihúzza, annak meg kell innia a pohár tartalmát. Legyetek kedvesek egymással, jó játékot!"
+next_card_kings,Next card,Következő
+your_challenges,Your challenges,Saját feladatok
+your_challenges_descr,"Finally, your inside jokes have a place in BEKU. Just insert your own challenges, the game will sprinke these in all game modes.","Végre a belsős poénjaidnak is van helye a játékban. Egyszerűen írd be a saját feladataidat, amiket a játék bele fog keverni a többi feladat közé az összes módban."
+your_challenges_breakdown,"Name 1 = XXX, Name 2 = YYY, Name 3 = ZZZ, Sips = 000",Név 1 = XXX Név 2 = YYY Név 3 = ZZZ Korty = 000
+your_challenges_example,"XXX, who do you think likes BEKU more, YYY or ZZZ? The chosen one has to drink 000 sips!","XXX, szerinted YYY vagy ZZZ szereti jobban BEKUt? A nyertes iszik 000 kortyot"
+perk_basic,Access to the pre-game and the icebreaker pack.,Hozzáférés az alapozás és az ismerkedős játékmódokhoz.
+perk_your,You can insert your own challenges in the game.,Rakd bele a játékba a saját feladataidat.
+perk_access,Access to all packs.,Hozzáférés az összes paklihoz.
+perk_kings,Access to the King's Cup game.,Hozzáférés a királyok pohara játékmódhoz.
+perk_upcoming,Access to new and exciting games and content.,Hozzáférés az új játékmódokhoz a jövőben.
+perk_cancel,You are in total control. Cancel anytime.,Te irányítasz. Mondd le bármikor.
+membership_fetch_failed,Membership options are currently unavailable. Please check your internet connection.,"A tagsági opciók most nem elérhetőek. Kérlek nézd meg, hogy van-e internetelérésed."
+rule1,I drink one,Iszom egyet
+rule2,You drink one,Iszol egyet
+rule3,Finger master,Ujj mester
+rule4,Guys drink,Srácok isznak
+rule5,Girls drink,Lányok isznak
+rule6,Heaven,Mennyország
+rule7,Bro,Haver
+rule8,Rhyme master,Rím mester
+rule9,Categories,Kategóriák
+rule10,Everyone,Mindenki
+rule11,Rule,Szabály
+rule12,The King's Cup,A király pohara
+rule13,Waterfall,Vízesés
+rule1descr,The person holding the device drinks.,"Az, akinél van a telefon, iszik egyet."
+rule2descr,Choose someone who has to drink.,"Válassz valakit, akinek innia kell egyet."
+rule3descr,"Whenever you put your thumbs on the table, other have to follow your lead. The last one to notice has to drink. From now on, you can do this any time, but only once.","Bármikor, amikor te rárakod a hüvelykujjadat az asztalra, a többieknek követnie kell téged. Aki utoljára rakja le az ujját, az iszik."
+rule4descr,Every guy drinks.,Minden csávó iszik a csapatban.
+rule5descr,Every girl drinks.,Minden lány iszik a csapatban.
+rule6descr,"Whenever you point upwards with a finger, other have to follow your lead. The last one to notice has to drink. From now on, you can do this any time, but only once.","Bármikor, amikor felfelé mutatsz legalább egy kézzel, a többieknek követnie kell téged. Aki utoljára mutat felfelé, az iszik."
+rule7descr,Choose someone who has to drink every time you drink until the next round.,"Válassz valakit, aki egy körig mindig iszik, amikor te is."
+rule8descr,"Say a word, everyone goes around saying something that rhymes with your word, until someone inevitably fails. That person has to drink.","Mondj egy szót, mindenkinek kell mondania egy erre rímelő szót, aki nem tudja folytatni, annak innia kell."
+rule9descr,"Say a category (drinking games, phone carriers, etc.), everyone has to say something in that category, until someone fails or repeats. That person has to drink.","Mondj egy kategóriát (autómárkák, ivós játékok, stb.), mindenkinek mondania kell valamit ebben a kategóriában. Aki nem tudja folytatni, az iszik."
+rule10descr,Not that complicated. Everyone drinks.,Annyira nem komplikált. Mindenki iszik.
+rule11descr,"You have to come up with a rule, that has to be followed until the end of the game. The next person to get this card has the power to overturn your rule.","Tűzz ki egy szabályt, amit a játék végéig mindenkinek tartania kell. Ha nagyon nehezen követhető szabályt találsz ki, add meg, hogy meddig kell betartani a szabályt."
+rule12descr,Pour something in the shared cup.,Önts bele valamit a középen lévő pohárba.
+rule13descr,"Everyone starts drinking, the person next to you can only stop drinking if you already stopped. This goes on until the round is completed, and everyone has stopped.","Kezdj el inni, a melletted lévő ember csak akkor hagyhatja abba az ivást, amikor te abbahagytad, és így tovább."
+gameover_king,You are the king!,Te vagy a király!
+gameover_king_descr,Drink the the contents of the king’s cup!,Idd meg a középen lévő pohár tartalmát!
+gameover_packs,You reached the end of this pack. Why not try another one?,"Elértél a végére a paklinak. Mi lenne, ha kipróbálnál egy másikat is?"
+restore_success,Your Premium subscription is successfully restored.,A Premium tagságodat sikeresen visszaállítottad.
+restore_fail,Cound not restore any previous purchases.,Nem található korábbi Premium tagság.
+purchase_success,Your Premium membership is now active,A Premium tagságod mostantól aktív
+purchase_fail,Cound not restore any previous purchases,Nem sikerült elindítani a Premium tagságodat
+intro_fav_drinking,Your new favourite party game.,Magyarország kedvenc ivós játéka.
+intro_numbers,7 games. 5000 challenges. Tailored to your group.,7 játékmód. 5000 kihívás. Rátok szabva.
+intro_jumpin,Jump in.,Vágj bele.
+no_premium_title,Be the life of the party!,Kérlek válts a BEKU appra!
+no_premium_descr,This pack is for BEKU Premium members only.,Ez a pakli nem elérhető a SAKU-ban.
+no_premium_button,OK,OK
+restore_first_title,Already Premium?,Már Premium vagy?
+restore_first_body,"Push the restore button below to reactivate your membership. You can always do this later.","Nyomd meg a visszaállítás gombot a tagságod visszaállításához. Ezt később is bármikor megteheted."
+success,Success!,Siker!
+try_again_later,Hmm...,Hmm...
+try_again_body,"Check your internet connection, and make sure you are logged in with the same credentials as you did when you purchased your membership. You can always try again on the Premium tab.","Ellenőrizd az internetkapcsolatodat, és győződj meg róla, hogy ugyanazzal a fiókkal vagy bejelentkezve az alkalmazás boltba, mint amivel megvetted korábban az előfizetésedet. Bármikor újrapróbálkozhatsz a Premium fül alján."
+cancel_button,Cancel,Mégse
+languages_title,Languages,Nyelvek
+languages_body,"You can change the language of the game here instantly.","Itt tudod megváltoztatni a játék nyelvét."
+get_premium_for_x_per_year,Get all packs for {} per year,Szerezd meg az összes játékmódot {}-ért évente.
+get_premium_for_x_per_month,Get all packs for {} per month.,Szerezd meg az összes játékmódot {}-ért havonta.
+monthly_breakdown_price,({} per month),({} havonta)
+other_membership_options_on_premium_tab,Discover alternative membership options on the Premium tab.,Fedezd fel a többi tagság opciót a Premium fülön.
+unlock_all,Unlock all packs and games.,Oldd fel az összes játékmódot.
+caution_title,It doesn't matter what's in your glass.,"Nem számít, hogy mit töltesz a poharadba."
+caution_body,"This is a game designed for you and your friends to get to know each other better and to have fun in the process. If you choose to go with an alcoholic beverage, please do it responsibly.","Ez a játék azzal a céllal lett kitalálva, hogy te és a csapatod jobban megismerjétek egymást és közben jól érezzétek magatokat. Ennek csak akkor része az alkohol, ha te úgy döntesz. Ha alkohollal szeretnéd játszani a játékot, kérlek tedd azt felelősséggel."
