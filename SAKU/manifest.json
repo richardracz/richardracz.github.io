@@ -1,11 +1,11 @@
 {
-    "name": "beku_multiplatform",
-    "short_name": "beku_multiplatform",
+    "name": "SAKU",
+    "short_name": "SAKU",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "A Sanc témájú ivós játék.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
