@@ -46966,7 +46966,7 @@ A.G8.prototype={
 aaJ(a){this.a7(new A.asZ(this,a))},
 aG(){this.b7()},
 D(a){var s,r=null,q=A.dy([new A.nn($.oS,r),new A.o8(r)][this.d],r,r),p=A.hj(255,0,107,1),o=A.eL(B.LI,r,r,r)
-o=A.aDU(A.eL(B.LM,r,r,r),o,"BEKU")
+o=A.aDU(A.eL(B.LM,r,r,r),o,"SAKU")
 s=A.eL(B.LO,r,r,r)
 return A.jk(r,r,q,new A.MG(A.a([o,A.aDU(A.eL(B.LK,r,r,r),s,A.at("settings",r))],t.ur),this.gaaI(),this.d,B.N,p,r),r)}}
 A.asZ.prototype={
@@ -99616,7 +99616,7 @@ $.au=B.aX
 $.aJ6=A.z(t.N,t.xd)
 $.aBt=A.a([],A.ab("v<b2f?>"))
 $.aKa=[B.oW,B.oX,B.oY,B.oZ,B.Lr,B.Ls,B.Lt,B.Lu]
-$.mD=A.a(["Sanc","H. Anna","Adri","Juli","Saci","Domi","Nagy Fruzsi","K. D\xf3ri","H. Fanni","K. Vikt\xf3ria","Rebi","Zizi","Dalma","Orsi","Kitti","Ricsi"],t.s)
+$.mD=A.a(["Sanc","H Anna","Adri","Juli","Saci","Domi","Fruzsi","Gabriella","D\xf3ri","Fanni","Vikt\xf3ria","Rebi","Zizi","Dalma","Orsi","Kiki","VK Anna","Ricsi"],t.s)
 $.aCb=1
 $.aRU=A.a(["rule1","rule2","rule3","rule4","rule5","rule6","rule7","rule8","rule9","rule10","rule11","rule12","rule13"],t.s)
 $.aRV=A.a(["rule1descr","rule2descr","rule3descr","rule4descr","rule5descr","rule6descr","rule7descr","rule8descr","rule9descr","rule10descr","rule11descr","rule12descr","rule13descr"],t.s)
