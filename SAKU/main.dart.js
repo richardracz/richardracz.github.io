@@ -46701,7 +46701,7 @@ if(o!=null&&!t.yp.b(o)){s=J.eY(o,t.N)
 o=s.de(s)
 p.n(q,r,o)}q=o==null?null:J.xg(o)
 t.Xb.a(q)
-$.mD=q==null?A.a(["Sanc","H. Anna","Adri","Juli","Saci","Domi","Nagy Fruzsi","K. D\xf3ri","H. Fanni","K. Vikt\xf3ria","Rebi","Zizi","Dalma","Orsi","Kitti","Ricsi"],t.s):q},
+$.mD=q==null?A.a(["Sanc","H Anna","Adri","Juli","Saci","Domi","Fruzsi","Gabriella","D\xf3ri","Fanni","Vikt\xf3ria","Rebi","Zizi","Dalma","Orsi","Kiki","VK Anna","Ricsi"],t.s):q},
 $S:0}
 A.ar0.prototype={
 $1(a){var s=null,r=A.aS(A.at("no_premium_title",s),s,s,s,s,s,s,s,s,s,s,s,s),q=A.aS(A.at("no_premium_descr",s),s,s,s,s,s,s,s,s,s,s,s,s)
