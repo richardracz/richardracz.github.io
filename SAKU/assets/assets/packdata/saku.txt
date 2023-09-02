@@ -16,11 +16,9 @@ XXX, milyen színű lesz Sanc ruhája a nagy napon? Ha eltaláltad, kiadhatsz 00
 XXX, szerinted ki a legvalószínűbb, hogy sírni fog a lagzin. A választott iszik 000 kortyot
 XXX ird le Sancot 5 melléknévvel, ha a többiek egyet értenek, kiadhatsz 000 kortyot
 XXX, szerinted YYY vagy ZZZ tudna jobban vigyázni Bukfencre, A választott kioszthat 000 kortyot.
-XXX, hány tetoválása van Sancnak? Ha eltaláltad Sanc iszik, ha nem akkor te iszol 000 kortyot.
 Körbemegyunk mindenki mondjon egy országot ahol már járt Sanc, akinél megáll iszik 000 kortyot. XXX te kezded.
 XXX, szerinted YYY vagy ZZZ ismeri régebb óta Sancot. Ha eltaláltad akkor aki régebb óta ismeri és Sanc, ha nem akkor te iszol."
 XXX, mi Bukfenc kedvenc étele? Ha Sanc egyetért, kiadhatsz 000 kortyot.
-XXX, nevezz meg 3 tetkót Sancon. Ha nem megy, igyál 000 kortyot.
 Korbemegyunk, mindenki mond egy olyan tevékenységet, amivel Sanc szívesen tölti az idejét, akinél megáll a kör, az iszik 000 kortyot. XXX, te kezdesz."
 XXX, szerinted ki az az itt jelenlévők közül, akire Sanc a legnyugodtabban bízná rá Bukfencet egy hosszú hétvégére, míg ő rafting túrára megy Petivel? A választott iszik 000 kortyot.
 XXX, szerinted Sanc vagy Peti foglal el több helyet az ágyon? Ha Sanc egyetért, kiadhatsz 000 kortyot.
@@ -50,12 +48,16 @@ XXX, mi az, ami mindig megtalálható Sanc hűtőjében? Ha Sanc egyetért, kiad
 XXX, mi az a zeneszám, amit biztosan hallani fogunk Sanc esküvőjén? Ha Sanc egyetért, kiadhatsz 000 kortyot.
 XXX, szerinted ki lesz az első, aki elsírja magát az esküvőn? A választott iszik 000 kortyot.
 Cégek/ egyetemi képzések neve, ahova felvették Sancot. Körbe megyünk, aki elakad, iszik 3 kortyot. XXX kezd.
-Szárnyalnak a tetoválóművészeknek kiírt EU-s pályázatok, igy a NER circle most a tetkóipar felé kacsintgat.Az éjszaka leple alatt benyújtották és el is fogadták az új törvényjavaslatot: Minden 18 és 98 év közötti lakosnak kötelező tetoválást varratnia legalább 10x10 cm-nyi bőrfelületére. Te mit választanál, inkább bármit tetováltathatnál magadra, de nem döntheted el, hogy hova, vagy nem választhatnád ki, mit ábrázoljon, csak a testrészt, ahova kerül. Szavazzatok, a vesztes csapat iszik.
+Minden 18 és 98 év közötti lakosnak kötelező tetoválást varratnia legalább 10x10 cm-nyi bőrfelületére. Te mit választanál, inkább bármit tetováltathatnál magadra, de nem döntheted el, hogy hova, vagy nem választhatnád ki, mit ábrázoljon, csak a testrészt, ahova kerül. Szavazzatok, a vesztes csapat iszik.
 XXX, szerinted kik fognak egymással megküzdeni a menyasszony csokráért az esküvőn? A választott iszik 000 kortyot.
 XXX, szerinted YYY vagy ZZZ tudna szebb tortát készíteni Sancék esküvőjére? A választott iszik 000 kortyot.
 XXX, szerinted YYY vagy ZZZ tudna jobb kutyaszittere lenni Bukfencnek? A választott iszik 000 kortyot.
 XXX, szerinted YYY vagy ZZZ lenne a jobb szerkesztője, ha átvenné Sanctól a @csacskamancs instagram oldal szerkesztését. A választott iszik 000 kortyot.
 XXX, szerinted ki a legvalószínűbb, hogy a legtovább bírja a lánybúcsún. A választott iszik 000 kortyot.
 XXX, szerinted ki hívna fel Sanc segítségért, ha el akarná tüntetni egy bűntette nyomait. A választott iszik 000 kortyot.
-Körbemegyünk mindenki mond egy számot amit elénekelt Ricsinek Sanc, akinél megáll iszik 000 kortyot.
 XXX, szerinted kié lesz a következő esküvő? A választott iszik 000 kortyot.
+XXX, szerinted melyik sorozatot nem szereti Sanc leginkabb? Ha eltalálod, kiadhatsz 000 kortyot, ha nem, akkor neked kell meginnod.
+XXX, szerinted YYY-t vagy ZZZ-t ismeri Sanc régebb óta? Ha eltalálod, kiadhatsz 000 kortyot, ha nem, akkor neked kell meginnod.
+XXX, szerinted YYY-t vagy ZZZ-t ismeri Sanc régebb óta? Ha eltalálod, kiadhatsz 000 kortyot, ha nem, akkor neked kell meginnod.
+XXX, szerinted melyik külföldi országban volt éves vonatkedvezmény bérlete Sancnak? Ha eltalálod, kiadhatsz 000 kortyot, ha nem, akkor neked kell meginnod.
+XXX, milyen virág van Sanc kezén? Ha eltalálod, kiadhatsz 000 kortyot, ha nem, akkor neked kell meginnod.

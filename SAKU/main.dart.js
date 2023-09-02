@@ -46701,7 +46701,7 @@ if(o!=null&&!t.yp.b(o)){s=J.eY(o,t.N)
 o=s.de(s)
 p.n(q,r,o)}q=o==null?null:J.xg(o)
 t.Xb.a(q)
-$.mD=q==null?A.a(["Sanc","H Anna","Adri","Juli","Saci","Domi","Fruzsi","Gabriella","D\xf3ri","Fanni","Vikt\xf3ria","Rebi","Zizi","Dalma","Orsi","Kiki","VK Anna","Ricsi"],t.s):q},
+$.mD=q==null?A.a(["Sanc","H Anna","Adri","Juli","Saci","Domi","Fruzsi","Gabriella","D\xf3ri","Fanni","Vikt\xf3ria","Rebi","Zizi","Dalma","Orsi","Kiki"],t.s):q},
 $S:0}
 A.ar0.prototype={
 $1(a){var s=null,r=A.aS(A.at("no_premium_title",s),s,s,s,s,s,s,s,s,s,s,s,s),q=A.aS(A.at("no_premium_descr",s),s,s,s,s,s,s,s,s,s,s,s,s)
@@ -99616,7 +99616,7 @@ $.au=B.aX
 $.aJ6=A.z(t.N,t.xd)
 $.aBt=A.a([],A.ab("v<b2f?>"))
 $.aKa=[B.oW,B.oX,B.oY,B.oZ,B.Lr,B.Ls,B.Lt,B.Lu]
-$.mD=A.a(["Sanc","H Anna","Adri","Juli","Saci","Domi","Fruzsi","Gabriella","D\xf3ri","Fanni","Vikt\xf3ria","Rebi","Zizi","Dalma","Orsi","Kiki","VK Anna","Ricsi"],t.s)
+$.mD=A.a(["Sanc","H Anna","Adri","Juli","Saci","Domi","Fruzsi","Gabriella","D\xf3ri","Fanni","Vikt\xf3ria","Rebi","Zizi","Dalma","Orsi","Kiki"],t.s)
 $.aCb=1
 $.aRU=A.a(["rule1","rule2","rule3","rule4","rule5","rule6","rule7","rule8","rule9","rule10","rule11","rule12","rule13"],t.s)
 $.aRV=A.a(["rule1descr","rule2descr","rule3descr","rule4descr","rule5descr","rule6descr","rule7descr","rule8descr","rule9descr","rule10descr","rule11descr","rule12descr","rule13descr"],t.s)
